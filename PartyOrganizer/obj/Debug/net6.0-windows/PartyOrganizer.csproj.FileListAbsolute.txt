@@ -1,0 +1,51 @@
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.exe
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.deps.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.runtimeconfig.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.AssemblyReference.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.MainForm.resources
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.GenerateResource.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfoInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfo.cs
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.CoreCompileInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\refint\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer\PartyOrganizer\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.exe
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.deps.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.runtimeconfig.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.AssemblyReference.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.MainForm.resources
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.GenerateResource.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfoInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfo.cs
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.CoreCompileInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\refint\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Practise\PartyOrganizer\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.exe
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.deps.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.runtimeconfig.json
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\bin\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.AssemblyReference.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.MainForm.resources
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.GenerateResource.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfoInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.AssemblyInfo.cs
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.csproj.CoreCompileInputs.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\refint\PartyOrganizer.dll
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.pdb
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\PartyOrganizer.genruntimeconfig.cache
+D:\Malmö University\04. Module 4 PropertiesAndArrays\AssignmentForC\PartyOrganizer\PartyOrganizer - Final Task\PartyOrganizer\obj\Debug\net6.0-windows\ref\PartyOrganizer.dll

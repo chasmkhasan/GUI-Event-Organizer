@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyOrganizer", "PartyOrganizer\PartyOrganizer.csproj", "{C6D3342D-DD0F-4254-A43C-5048C4248026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D3342D-DD0F-4254-A43C-5048C4248026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D3342D-DD0F-4254-A43C-5048C4248026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D3342D-DD0F-4254-A43C-5048C4248026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D3342D-DD0F-4254-A43C-5048C4248026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29DB73F1-28D8-4312-9DB4-114351424B69}
+	EndGlobalSection
+EndGlobal
